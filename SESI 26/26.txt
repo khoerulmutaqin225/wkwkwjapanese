@@ -1,0 +1,88 @@
+kosa kata
+bp = ~ ye ~ ni ikimas
+bp = doko ka ye ikimasika
+bp = dousete ~ ka
+
+eigakang = bioskop
+bioing = rumah sakit
+kusiriya = apotek
+cafe 	 = cafe
+
+taisikang = kedutaan
+daigaku   = universitas
+otearai   = toilet
+moru      = mall
+
+
+Jasi = majalah
+Jisyou = kamus
+kusyuri = obat
+noto =buku catatan
+
+Jisin = gempa
+Kaj= kebakana 
+taifu = angin topan
+jiko = kecelakaan
+
+
+Kojui = banjir
+tsunami = tsunami
+Jyutai = kemacetan
+biyoki = sakit
+
+mukaemas =  menjemput
+socho = perjalanan bisnis
+karimas = meminjam
+kaesimas = mengembalikan
+ransiyosimas = berlatih
+chikokusimas = terlambat
+
+#1
+bp = nano ye nani ni ikimas
+tempat ye kt kerja ni kimas
+
+
+egakang e eigao o mini ni ikimas
+pergi ke bioskop untuk menonton film
+
+moru e kaimono ni iki mastita
+pergi ke mall untuk belanja
+
+
+
+bp = shizukae fujisan ni nobori ikimas.
+febrina san no ie nihon o e benkyo ni ikimas
+
+tosokan e hon o yomi ni ikimas
+
+membaca = yom
+
+#2
+doko ka e ikimasika?
+
+kino = kemarin 
+telah pergo ke suau tempat kah
+
+senngsyu = minggu lalu
+ototoi   = dua hari lalu
+sengetsu = bulan lalu
+ie       = tidak
+doko emo iki  mase =tidak pergi kemana mana
+doko kae ikimastaka
+
+
+
+#3
+douste ~ destaka 
+kenapa ...
+
+doustegakoe gakoe e ikimasen destaka?
+kenapa gak masuk sekolagh
+taifu destakara
+karena ada angin topan
+
+watashi wa biyoki daskara
+
++
+doeste uchie kaerimasen destaka
+
